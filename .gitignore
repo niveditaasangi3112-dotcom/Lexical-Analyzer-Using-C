@@ -1,0 +1,15 @@
+# Compiled executables
+lexer
+lexer.exe
+a.out
+
+# Object files
+*.o
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
